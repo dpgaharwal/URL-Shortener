@@ -12,7 +12,7 @@ Linklytics is a comprehensive URL shortener and analytics tool designed for effi
 
 Check out the video demonstration of Linklytics here: [Video Demo](https://youtu.be/i_aw3S3dlM0).
 
-### Key Features of Lynklytics:
+### Key Features of Linklytics:
 
 - **Custom URL Shortening:** Create concise, memorable short links tailored to your needs.
 - **QR Code Generation:** Instantly generate QR codes for your shortened URLs, enhancing shareability.
@@ -36,4 +36,4 @@ Check out the video demonstration of Linklytics here: [Video Demo](https://youtu
 
 ---
 
-Whether you're seeking a robust URL shortening solution with in-depth analytics or a practical example of integrating React and Supabase, Lynklytics offers a fully responsive, scalable, and insightful platform.
+Whether you're seeking a robust URL shortening solution with in-depth analytics or a practical example of integrating React and Supabase, Linklytics offers a fully responsive, scalable, and insightful platform.
