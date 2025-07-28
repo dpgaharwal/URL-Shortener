@@ -1,9 +1,11 @@
 ---
-## Introducing Lynklytics: Your Advanced URL Shortener & Analytics Platform
+## Introducing Linklytics: Your Advanced URL Shortener & Analytics Platform
 
 This project, inspired by the EmbarkX Bitly Clone tutorial, is a full-stack application built to demonstrate modern web development with Spring Boot, React, and Supabase.
 
-Lynklytics is a comprehensive URL shortener and analytics tool designed for efficiency and insight. It leverages the **React Context API** for seamless state management, **Supabase** for robust backend services (database, authentication, and storage), **ShadCN** for a sleek and accessible user interface, and **Recharts** for powerful data visualization.
+Linklytics is a comprehensive URL shortener and analytics tool designed for efficiency and insight. It leverages the React Context API for seamless state management, Supabase for robust backend services (database, authentication, and storage), ShadCN for a sleek and accessible user interface, and Recharts for powerful data visualization.
+
+
 ---
 
 ## **Video Demonstration**
