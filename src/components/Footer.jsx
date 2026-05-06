@@ -17,10 +17,10 @@ const Footer = () => {
           A product by{" "}
           <span className="text-blue-500 font-medium">
             <a
-              href="https://www.linkedin.com/in/vardaan-bhatia-028446203/"
+              href="https://www.linkedin.com/in/dpgaharwal/"
               className="hover:underline"
             >
-              Vardaan Bhatia
+              Durga Prasad
             </a>
           </span>
         </p>
@@ -28,7 +28,7 @@ const Footer = () => {
         {/* Social media icons */}
         <div className="flex justify-center mt-6 space-x-6">
           <a
-            href="https://x.com/vardaanbhatia__"
+            href="https://x.com/happy"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -39,7 +39,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/vardaan-bhatia-028446203/"
+            href="https://www.linkedin.com/in/dpgaharwal/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -50,7 +50,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://github.com/vardaan-bhatia"
+            href="https://github.com/dpgaharwal"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -61,7 +61,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://medium.com/@vardaanbhatia55"
+            href="https://medium.com/@dpgaharwal"
             target="_blank"
             rel="noopener noreferrer"
           >
